@@ -11,6 +11,6 @@ How to ssh in:
 
 No root password is needed for ssh currently
 
-##sha1sum
+## sha1sum
 
 27a652f811ed5ccae65e1923809a5526fe39761c  SC5000M-2.1.2-Update.img
